@@ -7,7 +7,9 @@ Prism Pro: VM Efficiency & Anomaly Detection
 Overview
 ++++++++
 
+Prism Pro is a product designed to make our customer IT operations smarter and automated. Today, there is no solution that is specifically designed for IT operations for the data center built around HCI. The infrastructure in this type of data center is dynamic, scalable, and highly performed. The traditional performance monitoring and IT OPS tools are built for the static infrastructure. When the IT admins use the traditional tool to manage HCI environment, they are overwhelmed by the complexity and noisy signal the tool brings. This decreases the productivity of the operations and reduces the ROI from adopting the HCI.
 
+Prism Pro takes a unique approach that maximizes the operation efficiency of an HCI based data center. First, Prism Pro uses purpose-built machine learning (X-FIT) to extract the insights from the mass amount of operations data the HCI produces. The first three use cases Prism Pro shipped are capacity forecast and planning, VM right sizing, and anomaly detection. These use cases help our customer detect problems and waste with the actionable signal. Second, Prism Pro delivers an automation mechanism (X-Play) that enables customers to automate their operations tasks confidently to respond to the signal X-FIT detects.
 
 Lab Setup
 +++++++++

@@ -24,7 +24,9 @@ Flow is built into Prism Central and requires no additional appliances or consol
 
    .. figure:: images/10.png
 
-   Enabling Flow will require an additional 1GB of memory for each Prism Central VM, but there is no action required by the user as this occurs automatically. Additionally, the enable process verifies that each connected AHV host has at least 1GB of free RAM. The list of Flow capable AHV clusters is listed in the enable window.
+   Flow can only be enabled once per Prism Central instance. Flow will require an additional 1GB of memory for each Prism Central VM, but there is no action required by the user as this occurs automatically. Additionally, the enable process verifies that each connected AHV host has at least 1GB of free RAM. The list of Flow capable AHV clusters is listed in the enable window.
+
+   If **Flow** displays a green check mark next to it, that means Flow has already been enabled for the Prism Central instance being used. Proceed to `Securing An Application`_.
 
 #. Select **Enable Microsegmentation** and click **Enable**.
 
