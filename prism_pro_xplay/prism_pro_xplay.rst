@@ -85,9 +85,9 @@ You are welcome to compose your own subject message. The above is just an exampl
 
    .. figure:: images/ppro_41.png
 
-#. **Switch tabs back to** the http://10.42.247.70 page and continue to the Story 1-3 Step.
+#. **Switch tabs back to** the http://10.42.247.70 page and press Continue from the Story 1-3 Step, if you have not already.
 
-   .. figure:: images/ppro_66.png
+   .. figure:: images/ppro_08b.png
 
 #. Now we will simulate an alert for ‘VM Memory Constrained’ which will trigger the Playbook we just created. Click the ‘Simulate Alert’ button to create the alert.
 
