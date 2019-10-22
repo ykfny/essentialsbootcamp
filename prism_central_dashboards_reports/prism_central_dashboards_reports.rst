@@ -25,13 +25,13 @@ Create a Custom Dashboard
 
 Dashboards can also be customized.
 
-#. #. In **Prism Central > :fa:`fa-navicon` > Dashboard**, or click the **Home X**
+#. #. In **Prism Central > :fa:`bars` > Dashboard**, or click the **Home X**
 
 The main dashboard is the first dashboard presented when the system first installed.
 
 #. This dashboard can be customized as well, but instead we will each create new dashboard.
 
-#. Click on **:fa: `fa-gear` Manage Dashboards** to open the Manage Dashboards window.
+#. Click on **:fa:`cog` Manage Dashboards** to open the Manage Dashboards window.
 
 #. Once there click on **+ New Dashboard**
 
@@ -97,7 +97,7 @@ These reports can be manually generated or they can be automated from Prism Cent
 
 #. Next, fill out the following fields and click **Run** from the **Actions** dropdown:
 
-- **Report instance Name** - *initials* - Cluster Efficiency 
+- **Report instance Name** - *initials* - Cluster Efficiency
 - **Time Period for Report** - Last 24 Hours
 
 #. Click **Run**.
