@@ -25,13 +25,13 @@ Create a Custom Dashboard
 
 Dashboards can also be customized.
 
-#. #. In **Prism Central > :fa:`bars` > Dashboard**, or click the **Home X**
+#. In **Prism Central >** :fa:`bars` **> Dashboard**, or click the **Home X**
 
 The main dashboard is the first dashboard presented when the system first installed.
 
 #. This dashboard can be customized as well, but instead we will each create new dashboard.
 
-#. Click on **:fa:`cog` Manage Dashboards** to open the Manage Dashboards window.
+#. Click on :fa:`cog` **Manage Dashboards** to open the Manage Dashboards window.
 
 #. Once there click on **+ New Dashboard**
 
