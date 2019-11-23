@@ -80,7 +80,7 @@ Such reports can include resource consumption, abnormal behavior, and other valu
 
 These reports can be manually generated or they can be automated from Prism Central to be sent out via email when it’s most convenient.
 
-#. In **Prism Central > :fa:`fa-navicon` > Operations > Reports**.
+#. In **Prism Central >** :fa:`fa-navicon` **> Operations > Reports**.
 
 #. There you will see the two pre-defined reports available for you to use immediately:
 
