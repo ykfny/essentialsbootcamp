@@ -1,13 +1,13 @@
 .. _prism_central_overview:
 
 -----------------------
-Prism Central: Overview
+Prism Central: 概要
 -----------------------
 
-Overview
+概要
 ++++++++
+Prism Central UI のレイアウトやナビゲーション方法の概要を説明します。
 
-This lab will introduce the Prism Central UI, and familiarize you with its layout and navigation.
 
 Prism Central
 +++++++++++++
@@ -15,13 +15,16 @@ Prism Central
 #. Open https://<*Prism-Central-IP*>:9440
 
 #. Fill out the following fields and click **Enter**:
+#. 以下の項目を入力し **Enter** をクリックします。:
 
 - **Username** - admin
 - **Password** - *HPOC Password*
 
 #. After you log in to Prism Central, familiarize yourself with the Prism UI.
+#. Prism Centralへログイン後、Prism UI を操作します。
 
 #. Explore the information on the **Home** screen:
+#. **ダッシュボード**画面で以下の情報を確認します
 
 - Cluster Runway
 - Cluster Quick Access
