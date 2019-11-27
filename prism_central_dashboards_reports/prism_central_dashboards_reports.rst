@@ -7,6 +7,7 @@ Prism Central: ダッシュボードとレポート
 
 Overview
 概要
+aa
 ++++++++
 
 This lab will introduce Prism Central’s Dashboards and Reporting features.
