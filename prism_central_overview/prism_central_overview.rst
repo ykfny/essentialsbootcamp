@@ -27,9 +27,13 @@ Prism Central
 #. **ダッシュボード**画面で以下の情報を確認します
 
 - Cluster Runway
+- クラスターランウエイ
 - Cluster Quick Access
+- クラスタークイックアクセス
 - Impacted Cluster | Alerts
+- 影響を受けたクラスター | アラート
 - tasks
+- タスク
 
 #. Review the **Explore** screen:
 
